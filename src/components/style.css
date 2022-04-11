@@ -1,0 +1,10 @@
+h1 {
+  margin: 50px 50px;
+  text-align: center;
+  color: forestgreen;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
